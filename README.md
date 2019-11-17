@@ -1,2 +1,1 @@
-
-##10-Bit ADC Library with Serial Library
+# 10-Bit ADC Library with Serial Library
